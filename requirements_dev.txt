@@ -7,7 +7,7 @@ ensure
 
 
 # dev requirements -
-pytest==8.3.3
+pytest==7.4.4
 tox==4.21.0
 black
 flake8==7.1.1
